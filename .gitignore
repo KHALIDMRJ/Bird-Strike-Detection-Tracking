@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Large/raw videos
+# Videos/
+# *.avi
+
+# Keep only demo video manually inside assets/
